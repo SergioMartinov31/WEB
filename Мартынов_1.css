@@ -1,0 +1,23 @@
+h2 {
+    color: white;
+}
+
+button{
+    font-family: monospace;
+    font-size: 1.5rem;
+    color: #FAFAFA;
+    text-transform: uppercase;
+    padding: 1px 2px;
+    border-radius: 1px;
+    border: 2px solid #FAFAFA;
+    background: rgba(121, 131, 228, 0.911);
+    box-shadow: 1px 1px #fafafa;
+    cursor: pointer;
+    margin: 35px 0;
+}
+  
+p{
+    font-family : verdana;
+    font-size: 35px;
+    text-align: right; margin-right: 720px;
+}
